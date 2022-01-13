@@ -9,4 +9,5 @@ Bài tập thực hành môn cấu trúc dữ liệu và giải thuật với ng
 7. Sắp xếp các sản phẩm  trong danh sách móc nối theo ID
 8. Biểu diễn số lượng sản phẩm (đang ở hệ đếm cơ số 10) của phần tử đầu tiên trong Linked List ra hệ đếm nhị phân bằng phương pháp đệ quy.
 9. Đọc dữ liệu từ file chứa các sản phẩm rồi lưu vào stack. Hiển thị ra màn hình các sản phẩm có trong stack.
+
 10.Đọc dữ liệu từ file chứa các sản phẩm lưu vào queue. Hiển thị ra màn hình các sản phẩm có trong queue.
